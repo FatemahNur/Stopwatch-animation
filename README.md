@@ -35,3 +35,9 @@ node.js: The JavaScript file that provides the functionality for the stopwatch.
 The stopwatch starts by clicking the "Start" button. The time begins to update every second.
 The "Pause" button will pause the timer, allowing you to continue from the current time by pressing "Start" again.
 The "Reset" button will stop the timer and reset the display to 00:00:00.
+
+## License
+This project is licensed under the MIT License.
+
+## Contributing
+If you would like to contribute to this project, please feel free to submit a pull request.
