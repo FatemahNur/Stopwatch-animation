@@ -1,3 +1,9 @@
+## Screenshot
+[![image](https://github.com/user-attachments/assets/76dc80ec-833e-44c2-9d07-6cd9f1d6009b)]
+
+## Demo
+[]
+
 ## Stopwatch
 This project is a simple stopwatch application built using HTML, CSS, and JavaScript. It allows users to start, pause, and reset a stopwatch. The time is displayed in the format of hours, minutes, and seconds.
 
