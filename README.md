@@ -1,5 +1,5 @@
 ## Screenshot
-[![image](https://github.com/user-attachments/assets/76dc80ec-833e-44c2-9d07-6cd9f1d6009b)]
+[![image](2024-08-09](https://github.com/user-attachments/assets/bbe24997-f248-4ff0-aff4-5181bc43e973))]
 
 ## Demo
 [https://fatemahnur.github.io/Stopwatch-animation/] 
